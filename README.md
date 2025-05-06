@@ -1,5 +1,3 @@
-Here’s a clean, professional `README.md` you can use for your **Portfolio Optimizer** project. You can copy-paste this into your GitHub repo:
-
 ---
 
 ````markdown
@@ -76,9 +74,5 @@ MIT License
 
 Built by a self-taught quant dev with a passion for financial modeling, optimization, and real-world applications of math and code.
 
-```
+![7fcad9ba-eee2-459d-aa1e-a9ccd17bd8e9](https://github.com/user-attachments/assets/d736d794-564d-4b1f-94f1-4493a45ea27a)
 
----
-
-Would you like me to also generate a sample `screenshot.png` using your code and data to include in the repo?
-```
