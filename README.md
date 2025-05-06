@@ -34,7 +34,7 @@ python main.py
 * ✅ Sharpe Ratio
 * 📉 Efficient Frontier Plot with color-coded Sharpe Ratios and optimal portfolio marked
 
-![Efficient Frontier Example](https://github.com/user-attachments/assets/d736d794-564d-4b1f-94f1-4493a45ea27a)
+![Efficient Frontier Example](https://github.com/user-attachments/assets/4f5f74f3-ad41-41c7-a1c8-6865bccccdd3)
 
 ---
 
@@ -71,4 +71,6 @@ MIT License
 ## 🧑‍💻 Author
 
 Built by a self-taught quant dev with a passion for financial modeling, optimization, and real-world applications of math and code.
+
+
 
